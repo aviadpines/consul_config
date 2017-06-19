@@ -1,8 +1,9 @@
-name: Sir Arthur of Camelot
-quest: To seek the holy grail
-color: Blue
-swallow: What do you mean? An African or European swallow?
-map:
-  robin: brave
-  galahad: pure
-  duck: witch
+example:
+  name: Sir Arthur of Camelot
+  quest: To seek the holy grail
+  color: Blue
+  swallow: What do you mean? An African or European swallow?
+  map:
+    robin: brave
+    galahad: pure
+    duck: witch
