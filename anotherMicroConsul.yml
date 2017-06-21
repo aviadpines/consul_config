@@ -1,6 +1,6 @@
 application:
-  one: microConsul1.yml
-  two: microConsul2.yml
+  one: anotherMicroConsul1.yml
+  two: anotherMicroConsul1.yml
 
 anotherMicroConsul:
   one: anotherMicroConsul1.yml
