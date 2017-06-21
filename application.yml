@@ -1,0 +1,8 @@
+hello:
+  world: fubar
+
+application:
+  one: application1.yml
+  two: application2.yml
+  three: application3.yml
+

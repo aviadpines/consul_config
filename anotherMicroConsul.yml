@@ -1,0 +1,10 @@
+application:
+  one: microConsul1.yml
+  two: microConsul2.yml
+
+anotherMicroConsul:
+  one: anotherMicroConsul1.yml
+  two: anotherMicroConsul2.yml
+  three: anotherMicroConsul3.yml
+
+

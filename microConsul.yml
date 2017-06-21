@@ -1,9 +1,10 @@
-example:
-  name: Sir Arthur of Camelot
-  quest: To seek the holy grail
-  color: Blue
-  swallow: What do you mean? An African or European swallow?
-  map:
-    robin: brave
-    galahad: pure
-    duck: witch
+application:
+  one: microConsul1.yml
+  two: microConsul2.yml
+
+microConsul:
+  one: microConsul1.yml
+  two: microConsul2.yml
+  three: microConsul3.yml
+
+
