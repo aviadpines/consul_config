@@ -1,0 +1,1 @@
+{{ tree (env "CONFIG_ROOT") | explode | toYAML}}
