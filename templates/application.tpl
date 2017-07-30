@@ -1,1 +1,1 @@
-{{ tree (env "CONFIG_ROOT/application") | explode | toYAML}}
+{{ tree (print (env "CONFIG_ROOT") "/application") | explode | toYAML}}

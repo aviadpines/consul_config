@@ -1,1 +1,1 @@
-{{ tree (env "CONFIG_ROOT/smoove-microservice") | explode | toYAML}}
+{{ tree (print (env "CONFIG_ROOT")" "/smoove-microservice") | explode | toYAML}}
